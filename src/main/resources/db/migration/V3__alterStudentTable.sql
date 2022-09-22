@@ -1,0 +1,2 @@
+ALTER TABLE Students
+ADD COLUMN gender VARCHAR(15);
